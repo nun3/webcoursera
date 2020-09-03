@@ -1,0 +1,9 @@
+ul {
+    list-style-type: square;
+  }
+  li {
+    background: url("arrow.png") 0 50% no-repeat;
+    list-style-type: none;
+    padding-left: 12px;
+  }
+  
